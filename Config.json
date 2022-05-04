@@ -1,0 +1,33 @@
+{
+  "How To Configure?": "Read the docs on github!",
+
+  "ChannelID": 0,
+  "MessageID": 0,
+  "Token": "PasteHereYourBotDiscordToken",
+
+  "Title": {
+    "Name": "example Title",
+    "Url": "https://google.com"
+  },
+
+  "Author": {
+    "Name": "Example Author",
+    "Link": "https://avatars.githubusercontent.com/u/103701190?v=4"
+  },
+
+  "Fields": {
+    "1": {
+      "name": "Cpu",
+      "value": "{CPU}%"
+    },
+
+    "2": {
+      "name": "Ram",
+      "value": "{RAM}%"
+    }
+  },
+
+  "Thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9a/Trollface_non-free.png",
+  "Description": "This is just another Simple Description",
+  "Footer": "Reload Every 1 second"
+}
